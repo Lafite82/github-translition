@@ -1,0 +1,29 @@
+{
+	".Subhead>.Subhead-heading":[
+		"修改密码",
+		"修改账号",
+		"删除账号"
+	],
+	"#change_password>dl>dt>label":[
+		"旧密码",
+		"新密码",
+		"确认新密码"
+	],
+	"#change_password>p>button":[
+		"确认修改"
+	],
+	"#change_password>p>span>a":[
+		"找回密码"
+	],
+	".Subhead:eq(1)+p":[
+		["Changing your username can have","更改用户名可能有"],
+		["unintended side effects","意想不到的影响"]
+	],
+	"p>a.btn":[
+		"修改账号",
+		"删除账号"
+	],
+	"p":[
+		["Once you delete your account, there is no going back. Please be certain.","删除后不可恢复，请谨慎操作"]
+	]
+}

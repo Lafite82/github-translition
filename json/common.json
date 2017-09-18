@@ -1,0 +1,37 @@
+{
+	".form-control.header-search-input.js-site-search-focus":[
+		"搜索 GitHub"
+	],
+	".js-selected-navigation-item.HeaderNavlink.px-2":[
+		"申请合并",
+		"问题",
+		"应用商城",
+		"发现"
+	],
+	".dropdown-item":[
+		"创建库",
+		"导入库",
+		"创建Gist",
+		"创建组织",
+		"我的主页",
+		"我的收藏",
+		"我的Gist",
+		"帮助",
+		"设置",
+		"退出",
+		"退出"
+	],
+	".list-style-none.d-flex.flex-wrap>li>a":[
+		"条款",
+		"隐私",
+		"安全",
+		"现状",
+		"帮助",
+		"联系GitHub",
+		"API",
+		"服务",
+		"商店",
+		"博客",
+		"关于"
+	]
+}

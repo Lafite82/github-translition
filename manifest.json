@@ -1,0 +1,40 @@
+{
+  "name": "github转中文",
+  "description": "github汉化插件",
+  "version": "0.6",
+  "permissions": [
+    //获取的权限
+  	"contextMenus",
+  	"activeTab",
+  	"tabs",
+  	"background",
+  	"storage",
+    "notifications",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    //后台脚本
+    "scripts": ["js/background.js"]
+  },
+  "content_scripts": [
+    //页面脚本
+    {
+      "matches": ["*://*/*"],
+      "js": ["js/main.js","js/lib/jquery-1.11.3.min.js"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "github转中文",
+    "default_icon": "icon/icon.png"
+    // "default_popup": "html/popup.html"弹出框页面
+        
+  },
+  "icons": {
+    "128": "icon/icon.png"
+  },
+  "web_accessible_resources": [
+    //白名单文件
+  ],
+  "manifest_version": 2
+}

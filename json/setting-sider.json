@@ -1,0 +1,25 @@
+{
+	".menu>.menu-heading":[
+		"个人设置",
+		"开发者设置"
+	],
+	".menu>.js-selected-navigation-item.menu-item":[
+		"主页",
+		"账号",
+		"邮箱",
+		"通知",
+		"账单",
+		"SSH 和 GPG 秘钥",
+		"安全",
+		"黑名单",
+		"代码库",
+		"组织",
+		"常用回复",
+		"授权的OAuth应用",
+		"授权的GitHub应用",
+		"已经安装的GitHub应用",
+		"OAuth应用",
+		"GitHub应用",
+		"私有访问令牌"
+	]
+}

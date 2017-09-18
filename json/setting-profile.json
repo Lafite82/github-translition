@@ -1,0 +1,56 @@
+{
+	".Subhead.mt-0.mb-0>.Subhead-heading":[
+		"主页设置"
+	],
+	"form>.column>.form-group>dt>label":[
+		"昵称",
+		"邮箱",
+		"个人介绍",
+		"个人博客链接",
+		"所在公司",
+		"地址"
+	],
+	"form>.column>.form-group:eq(1)>dd>p":[
+		"你可以在<a href='/settings/emails'>邮箱设置</a>管理你的验证邮箱."
+	],
+	"form>.column>.form-group:eq(2)>dd>p":[
+		"你可以@其他开发者或者组织."
+	],
+	"form>.column>.form-group:eq(4)>dd>p":[
+		"你可以@你公司的GitHub组织."
+	],
+	"form>.column>p>.btn":[
+		"保存"
+	],
+	".col-9.float-left>p.note":[
+		"我们把你的个人数据存储在美国. 点击查看 <a href='https://github.com/site/privacy'>隐私政策</a>.",
+		"如果想开发应用整合到GitHub,请<a href='https://developer.github.com'>查看</a>引导开发者的页面的API参考和其他资源。请确保您的联系信息是最新的。谢谢你的加入！"
+	],
+	".Subhead.Subhead--spacious>.Subhead-heading":[
+		"贡献",
+		"GitHub开发者计划",
+		"工作主页"
+	],
+	".form-checkbox.mt-0>label":[
+		"在主页上显示的贡献包含私有贡献"
+	],
+	".form-checkbox.mt-0>span.note":[
+		"通过在您的个人资料上显示私有存储库的贡献数，而无需任何存储库或组织信息，从而获得所有工作的信誉。<a href='https://help.github.com/articles/viewing-contributions-on-your-profile-page/'>了解我们如何计算贡献</a>"
+	],
+	"form.edit_user>.btn":[
+		"保存",
+		"保存"
+	],
+	"#github-developer-program>p":[
+		"如何建立一个应用程序，服务，或工具，集成了Github上？<a href='/developer/register'>加入GitHub的开发者计划</a>，或在我们的<a href='https://developer.github.com'>开发者网站</a>阅读来了解更多相关技术。"
+	],
+	"form.edit_user:eq(1)>p>label":[
+		"显示可以接受Offer"
+	],
+	"form.js-upload-avatar-image>dl>dt>label":[
+		"头像"
+	],
+	"form.js-upload-avatar-image>dl>dd>.avatar-upload>label":[
+		"上传头像<input type=\"file\" class=\"manual-file-chooser width-full height-full ml-0 js-manual-file-chooser js-avatar-field\">"
+	]
+}

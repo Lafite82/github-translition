@@ -1,0 +1,80 @@
+{
+	".underline-nav>.underline-nav-item":[
+		"总览",
+		"代码库",
+		"收藏",
+		"粉丝",
+		"关注"
+	],
+	".btn-link.muted-link.float-right.mt-1.pinned-repos-setting-link":[
+		"自定义固定代码库"
+	],
+	".f4.mb-2.text-normal":[
+		"活跃代码库",
+		"代码贡献",
+		"贡献记录"
+	],
+	".btn-link.select-menu-button.muted-link.text-normal.contributions-setting-link.js-menu-target":[
+		"贡献设置"
+	],
+	".select-menu-modal>.select-menu-header>.select-menu-title":[
+		"如何显示贡献",
+		"选择语言"
+	],
+	".select-menu-modal>.select-menu-list .select-menu-item-heading":[
+		"仅显示公共代码库贡献",
+		"显示公共和私有代码库贡献"
+	],
+	".select-menu-modal>.select-menu-list .select-menu-item-text.mt-1":[
+		"访问您的个人资料只会看到您对公共代码库的贡献",
+		"访问到您的个人资料将看到你的公共和匿名的私人贡献"
+	],
+	".contrib-footer>.float-left.text-gray>a":[
+		"了解我们如何计算贡献"
+	],
+	".contribution-first-repository.text-center>h4":[
+		"第一个代码库"
+	],
+	".ajax-pagination-btn.btn.btn-outline.border-gray-dark.width-full.f6.mt-0.py-2.contribution-activity-show-more":[
+		"显示更多贡献记录"
+	],
+	".activity-listing.contribution-activity>form>p":[
+		"如果遇到问题请查看<a href='https://help.github.com/categories/setting-up-and-managing-your-github-profile'>GitHub引导页面</a>"
+	],
+	".js-calendar-graph-svg>g>.month":[
+		"九月",
+		"十月",
+		"十一月",
+		"十二月",
+		"一月",
+		"二月",
+		"三月",
+		"四月",
+		"五月",
+		"六月",
+		"七月",
+		"八月"
+	],
+	".js-calendar-graph-svg>g>.wday":[
+		"周日",
+		"周一",
+		"周二",
+		"周三",
+		"周四",
+		"周五",
+		"周六"
+	],
+	".select-menu-modal>.select-menu-list>.select-menu-item>span":[
+		"全部",
+		"公开",
+		"私有",
+		"源码",
+		"转载",
+		"镜像",
+		"全部"
+	],
+	".pinned-repo-item.fork>span>p":[
+		["Forked from","转载来源"]
+	]
+
+}
